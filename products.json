@@ -1,0 +1,8 @@
+{ "products" : [
+  { "Name": "Cheese", "Price" : 2.50, "Location": "Refrigerated foods", "product_type" :  "lamp", "variants" : [ {"price" : 2.50} ] },
+  { "Name": "Crisps", "Price" : 3, "Location": "the Snack isle", "product_type" :  "lamp", "variants" : [ {"price" : 3} ]},
+  { "Name": "Pizza", "Price" : 4, "Location": "Refrigerated foods", "product_type" :  "lamp", "variants" : [ {"price" : 4} ]},
+  { "Name": "Chocolate", "Price" : 1.50, "Location": "the Snack isle", "product_type" :  "lamp", "variants" : [ {"price" : 1.50} ]},
+  { "Name": "Self-raising flour", "Price" : 1.50, "Location": "Home baking", "product_type" :  "Wallet", "variants" : [ {"price" : 1.50} ]},
+  { "Name": "Ground almonds", "Price" : 3, "Location": "Home baking", "product_type" :  "Wallet", "variants" : [ {"price" : 3.50} ]}
+]}
